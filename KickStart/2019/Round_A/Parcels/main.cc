@@ -25,8 +25,9 @@ struct DataPix {
 int main(/* int argc, char const* argv[] */) {
   std::string test_path =
       "/home/adlink/Documents/GoogleCodingChallenges/KickStart/2019/"
-      "Round_A/";
+      "Round_A/Parcels/";
   std::ifstream input(test_path + "test.txt");
+  std::cout << test_path + "test.txt" << std::endl;
   // auto& input = std::cin;
   size_t ncase{};
   input >> ncase;
