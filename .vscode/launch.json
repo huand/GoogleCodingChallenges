@@ -8,7 +8,7 @@
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/build/KickStart/2019/Practice_Round/Number_Guessing/Number_Guessing ",
+      "program": "${workspaceFolder}/build/KickStart/2019/Round_A/Contention/Contention",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",

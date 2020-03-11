@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
 add_subdirectory(KickStart/2019/Round_A/Parcels)
 add_subdirectory(KickStart/2019/Round_A/Training)
+add_subdirectory(KickStart/2019/Round_A/Contention)
 add_subdirectory(KickStart/2019/Practice_Round/Number_Guessing)
 add_subdirectory(KickStart/2019/Practice_Round/Mural)
 add_subdirectory(Techniques)
