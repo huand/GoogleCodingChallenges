@@ -8,7 +8,7 @@
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/build/KickStart/2019/Round_A/Contention/Contention",
+      "program": "${workspaceFolder}/build/Techniques/IntervalleTree/IntervalleTree",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
