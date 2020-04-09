@@ -46,9 +46,9 @@ int main(/* int argc, char const* argv[] */) {
     itv.push_back({l, r});
   }
 
-  std::vector<Node> tree;  //?
+  std::vector<Node> tree;
   // DFS
-  std::stack<IntervStack> stack;  // todo: splice things up
+  std::stack<IntervStack> stack;
   std::cout << itv.size() << " ";
   stack.push({std::move(itv), 0});
   std::cout << itv.size() << std::endl;

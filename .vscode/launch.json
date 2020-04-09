@@ -8,7 +8,7 @@
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/build/Techniques/IntervalleTree/IntervalleTree",
+      "program": "${workspaceFolder}/build/KickStart/2019/Round_B/EnergyStones/EnergyStones",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
