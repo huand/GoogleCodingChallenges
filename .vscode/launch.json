@@ -8,7 +8,7 @@
       "name": "(gdb) country leader",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/build/KickStart/2016/Round_A/1_CountryLeader/1_CountryLeader",
+      "program": "${workspaceFolder}/build/KickStart/2016/Round_B/1_Sherlock/1_Sherlock",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
